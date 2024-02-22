@@ -13,16 +13,24 @@ for more info. **All contributions welcome!**
 > 
 |   |         |               |
 | - | :-----: | :-----------: |
-| Zotero | Library management | Usefull extensions: Zotfile, BetterBibTex, DOI manager |
+| [Zotero](https://www.zotero.org/) | Library management | Usefull extensions: Zotfile, BetterBibTex, DOI manager |
 
-## Note taking
+## Note-taking
 |   |         |               |
 | - | :-----: | :-----------: |
-| Logseq | Note-taking app | Open source, local, Markdown-based, second brain style |
+| [Logseq](https://logseq.com/) | Note-taking app | Open source, local, Markdown-based, second brain style |
+
+## Productivity
+|   |         |               |
+| - | :-----: | :-----------: |
+| [Todoist](https://app.todoist.com/app) | Task management | Simple, intuitive, several integrations |
+| [Raycast](https://www.raycast.com/)) | Extendable launcher | MacOs only, Spotlight with superpowers, several extensions |
+| [Inkscape](https://inkscape.org/) | Vector graphic editor | Must have for making multiple plots panels (stop wasting time on matplotlib) |
 
 ## Usefull tips
-|   |         |               |
-| - | :-----: | :-----------: |
+- Be careful not to over-rely on university tools and systems, once you are done, your access is gone!
+- Have your research events in a calendar that you own, it will be valuable later when searching for what was done
+- 
 
 ## Other awesome lists
 > Ordered alphabetically.
