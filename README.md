@@ -1,12 +1,12 @@
 # awesome-phd-life-tools
 
-This here is a list of useful resources made for the PhD community, by
-the community. It includes usefull tools for literature review, project management, coding.
+This here is a carefully crafted list of resources made for the PhD community, by
+the community. It includes useful tools for literature review, project management and coding.
 We aim to provide all the resources that anyone who would like to enter PhD life would need.
 
 The list is only as awesome as the community makes it! If you have anything to add or
 suggest for this list, head over to the [contributing guidelines](https://github.com/sandrofsousa/awesome-phd-life-tools/blob/main/CONTRIBUTING.md)
-for more info. **All contributions welcome!**
+for more info. **All contributions are welcome!**
 
 ## Literature review
 > Ordered alphabetically.
