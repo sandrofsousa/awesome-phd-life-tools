@@ -14,7 +14,7 @@ for more info. **All contributions welcome!**
 |   |         |               |
 | - | :----- | :----------- |
 | [Zotero](https://www.zotero.org/) | Library management | Usefull extensions: Zotfile, BetterBibTex, DOI manager |
-| [researchrabbit](https://www.researchrabbit.ai/) | Literature exploration | Literature search, citation network, similar papers |
+| [ResearchRabbit](https://www.researchrabbit.ai/) | Literature exploration | Literature search, citation network, similar papers |
 
 ## Note-taking
 |   |         |               |
