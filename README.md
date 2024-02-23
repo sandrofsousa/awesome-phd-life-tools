@@ -28,6 +28,16 @@ for more info. **All contributions are welcome!**
 | [Raycast](https://www.raycast.com/) | Extendable launcher | MacOs only, Spotlight with superpowers, several extensions |
 | [Inkscape](https://inkscape.org/) | Vector graphic editor | Must have for making multiple plots panels (stop wasting time on matplotlib) |
 
+## Presentations/slides tools
+|   |         |               |
+| - | :----- | :----------- |
+| [flaticon](https://www.flaticon.com/) | Icons database | Both normal and animated icons |
+| [freepik](https://www.freepik.com/) | Videos, photos, vectors, templates | Some content is premium, but most is free |
+| [lottiefiles](https://lottiefiles.com/) | Animations | Some content is premium, but most is free |
+| [uiGradients](https://uigradients.com/) | Gradients | Download as jpg, useful for color palettes and slides backgrounds |
+| [coolors](https://coolors.co/) | Color palettes | Highly customizable |
+| [unplash](https://unsplash.com/) | Photos | Very high resolution |
+
 ## Usefull tips
 - Be careful not to over-rely on university tools and systems, once you are done, your access is gone!
 - Have your research events in a calendar that you own, it will be valuable later when searching for what was done
