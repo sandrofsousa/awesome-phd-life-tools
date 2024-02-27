@@ -13,13 +13,14 @@ for more info. **All contributions are welcome!**
 > 
 |   |         |               |
 | - | :----- | :----------- |
-| [Zotero](https://www.zotero.org/) | Library management | Usefull extensions: Zotfile, BetterBibTex, DOI manager |
+| [Zotero](https://www.zotero.org/) | Library management | Useful extensions: Zotfile, BetterBibTex, DOI manager |
 | [ResearchRabbit](https://www.researchrabbit.ai/) | Literature exploration | Literature search, citation network, similar papers |
 
 ## Note-taking
 |   |         |               |
 | - | :----- | :----------- |
 | [Logseq](https://logseq.com/) | Note-taking app | Open source, local, Markdown-based, second brain style |
+| [Obsidian](https://obsidian.md/) | Note-taking app | Markdown-based, useful community plugins: Admonitions, Obsidian Git, Pandoc Reference List, Zotero Integration |
 
 ## Productivity
 |   |         |               |
@@ -36,9 +37,10 @@ for more info. **All contributions are welcome!**
 | [lottiefiles](https://lottiefiles.com/) | Animations | Some content is premium, but most is free |
 | [uiGradients](https://uigradients.com/) | Gradients | Download as jpg, useful for color palettes and slides backgrounds |
 | [coolors](https://coolors.co/) | Color palettes | Highly customizable |
+| [htmlcolorcodes](https://htmlcolorcodes.com/) | Color palettes | Template chart, color theory, link to other useful ressources |
 | [unplash](https://unsplash.com/) | Photos | Very high resolution |
 
-## Usefull tips
+## Useful tips
 - Be careful not to over-rely on university tools and systems, once you are done, your access is gone!
 - Have your research events in a calendar that you own, it will be valuable later when searching for what was done
 - 
